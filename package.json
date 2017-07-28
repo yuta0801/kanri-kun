@@ -1,0 +1,19 @@
+{
+  "name": "kanri-kun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuta0801/kanri-kun.git"
+  },
+  "author": "yuta0801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuta0801/kanri-kun/issues"
+  },
+  "homepage": "https://github.com/yuta0801/kanri-kun#readme"
+}
