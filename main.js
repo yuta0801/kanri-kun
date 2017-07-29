@@ -1,5 +1,5 @@
 const Discord = require("discord.js"),
-			client = new Discord.Client(),
+			client  = new Discord.Client(),
 			mongo   = require('mongodb').MongoClient;
 
 mongo.connect('mongodb://localhost:27017/online', (error, db) => {
